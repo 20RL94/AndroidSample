@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tax_arrays">
+        <item>15 Prozent</item>
+        <item>20 Prozent</item>
+    </string-array>
+    <integer-array name="taxvalue_array">
+        <item>15</item>
+        <item>20</item>
+    </integer-array>
+
+
+</resources>

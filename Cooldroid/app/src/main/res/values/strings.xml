@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cooldroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="textview_welcome_text">I\', so cool</string>
+    <string name="welcome_text">I\'m so cool</string>
+    <string name="abc_droid_output_text">YOLO</string>
+</resources>
